@@ -7,11 +7,11 @@ A robust machine learning pipeline designed to classify support emails into pred
 ## 📋 Table of Contents
 
 - [🚀 Project Overview](#-project-overview)
+-  [📊 Model Analytics](#-model-analytics)
 - [📂 Folder Structure](#-folder-structure)
 - [🛠️ Setup & Installation](#️-setup--installation)
 - [⚙️ Usage Instructions](#️-usage-instructions)
 - [🔍 Input & Output Example](#-input--output-example)
-- [📊 Evaluation Metrics](#-evaluation-metrics)
 - [🧰 Libraries & Frameworks](#-libraries--frameworks)
 - [🧠 Machine Learning Model](#-machine-learning-model)
 - [🎯 Project Purpose](#-project-purpose)
@@ -28,6 +28,19 @@ This project focuses on:
 - **Email Classification**: Categorizing support emails into labels like Billing Issues, Technical Support, Account Management, etc.
 - **PII & PCI Masking**: Detecting and masking sensitive information such as names, emails, phone numbers, credit card details, etc., without relying on Large Language Models (LLMs).
 
+---
+
+## 📊 MODEL ANALYTICS
+
+---
+**EVALUATION METRICS**:
+<img src="model_analytics/collage.jpg" width="900">
+
+
+**PRECISION & RECALL**:
+<img src="model_analytics/Screenshot 2025-04-22 200831.png" width="900">
+
+---
 ---
 
 ## 📂 Folder Structure
@@ -129,16 +142,6 @@ Predicted Category: Incident
 ```
 
 ---
-
-## 📊 MODEL ANALYTICS
-
-**EVALUATION METRICS**:
-<img src="images/Screenshot 2025-03-26 163823.png" width="900">
-
-
-**PRECISION & RECALL**:
-<img src="images/Screenshot 2025-03-26 163823.png" width="900">
-
 
 
 ---
