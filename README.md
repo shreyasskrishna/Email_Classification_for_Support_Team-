@@ -250,7 +250,7 @@ To automate the classification of support emails, improving customer service wor
 For contributions or queries:
 
 - 📧 [shreyasskrishna09@gmail.com](mailto\:shreyasskrishna09@gmail.com)
--  📧 [linkedin](mailto\:www.linkedin.com/in/shreyass-krishna)
+- 📧 [LinkedIn](https://www.linkedin.com/in/shreyass-krishna)
 
 ---
 
