@@ -130,13 +130,14 @@ Predicted Category: Incident
 
 ---
 
-## 📊 Evaluation Metrics
+## 📊 MODEL ANALYTICS
 
-**Confusion Matrix**:
+**EVALUATION METRICS**:
+<img src="images/Screenshot 2025-03-26 163823.png" width="900">
 
 
-
-**F1 Score**:
+**PRECISION & RECALL**:
+<img src="images/Screenshot 2025-03-26 163823.png" width="900">
 
 
 
