@@ -1,4 +1,11 @@
-pandas
+fastapi
+uvicorn[standard]
+pydantic
 scikit-learn
+pandas
+spacy
+regex
+python-multipart
+joblib
 matplotlib
 seaborn
