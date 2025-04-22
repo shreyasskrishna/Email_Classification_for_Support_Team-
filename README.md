@@ -34,7 +34,7 @@ This project focuses on:
 
 ---
 **EVALUATION METRICS**:
-<img src="model_analytics/collage.jpg" width="900">
+<img src="model_analytics/analytics.jpg" width="900">
 
 
 **PRECISION & RECALL**:
