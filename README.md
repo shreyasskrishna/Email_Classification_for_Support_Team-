@@ -71,6 +71,24 @@ EMAIL-CLASSIFICATION-SYSTEM/
 
 ```
 
+## 📋 Module Documentation
+
+This project follows a modular architecture with each Python file serving a specific role:
+
+- **`api.py`**: Contains FastAPI route handlers. Defines the main `/classify` POST endpoint and a `/health` GET endpoint, both documented with example requests and structured responses using Pydantic models.
+
+- **`app.py`**: The entry point to launch the FastAPI server using Uvicorn. Sets up the application instance and includes necessary configurations and router imports.
+
+- **`config.py`**: Stores project-level configurations such as file paths, environment variables, and constants. Useful for managing deployment settings or model paths in a centralized way.
+
+- **`model_analytics.py`**: Contains model evaluation logic such as confusion matrix, F1-score, and accuracy calculations. Generates visualizations and logs metric reports.
+
+- **`models.py`**: Implements the machine learning model logic including training, saving, loading, and prediction. Uses scikit-learn with TF-IDF vectorization and logistic regression for classification.
+
+- **`requirements.txt`**: Lists all required dependencies for running the application. Libraries include FastAPI, scikit-learn, spaCy, pandas, and matplotlib with optional comments explaining each.
+
+- **`utils.py`**: Contains helper functions such as text preprocessing, PII/PCI masking using regex and spaCy, and demasking logic. All functions include input/output docstrings and internal comments for clarity.
+
 ---
 
 ## 🛠️ Setup & Installation
