@@ -8,7 +8,7 @@ A robust machine learning pipeline designed to classify support emails into pred
 
 - [🚀 Project Overview](#-project-overview)
 -  [📊 Model Analytics](#-model-analytics)
-- [📂 Folder Structure](#-folder-structure)
+- [📂 Folder Structure & Module Details](#-folder-structure)
 - [🛠️ Setup & Installation](#️-setup--installation)
 - [⚙️ Usage Instructions](#️-usage-instructions)
 - [🔍 Input & Output Example](#-input--output-example)
