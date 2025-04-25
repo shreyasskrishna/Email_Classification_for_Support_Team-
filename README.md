@@ -19,12 +19,14 @@ A robust machine learning pipeline designed to classify support emails into pred
 - [📁 API Endpoints](#-api-endpoints)
 - [📬 Contact](#-contact)
 
-## 📘 Project Report
+## 📘 Project Report  and demo video.
 
 You can view or download the detailed project report here:
 
 [📄 Email Classification Report (PDF)](https://drive.google.com/file/d/1DfeeE5UctY-4byRgGSH4B6ftqDEQpYlw/view?usp=sharing)
 
+
+[📄 Project demo video (MP4)](https://drive.google.com/file/d/1sTKUm3kSiSsGccZV2zRStJ7Z0cS03Jut/view)
 ---
 
 ## 🚀 Project Overview
